@@ -195,7 +195,7 @@ github_token
 Potential GitHub token
 	
 
-"`githUb_token`: '9qjxsjq6HWBXKAOP87IJHmhsW8038d73Dm9eDu'"
+"`githUb_token`: '9qjxsjq6HWBXKAOP87IJHmhsW803adsfasdf8d73Dm9eDu'"
 
 github_access_token|github_oauth_client_secret
 	
